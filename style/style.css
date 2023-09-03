@@ -75,8 +75,8 @@ color: rgb(8, 28, 25);}
 blockquote
 { margin: 20px 0; 
   padding: 10px 20px 0 20px;
-  border: 1px solid #E5E5DB;
-  background: #FFF;}
+  border: 1px solid #525240;
+  background: #533434;}
 
 ul
 { margin: 2px 0 22px 17px;}
@@ -174,7 +174,7 @@ ul#menu li a:hover
   overflow: hidden;
   margin: 0 auto 0 auto;
   padding: 10px 20px 20px 20px;
-  border: 15px solid #FFF;;
+  border: 15px solid rgb(209, 208, 208);
 } 
 
 #content
@@ -250,7 +250,7 @@ ul#menu li a:hover
   height: 33px;
   padding: 2px 0 3px 0;
   cursor: pointer; 
-  background: #3B3B3B; 
+  background: #998383; 
   color: #FFF;}
 
 .form_settings textarea, .form_settings select
